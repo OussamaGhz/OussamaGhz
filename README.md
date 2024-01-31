@@ -12,7 +12,7 @@ I'm Ghazi Oussama Soheib, a Computer Science student based in Algiers, Algeria. 
 
 ## 💻 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Languages:** JavaScript, TypeScript, C, Java, HTML, CSS
 - **Front-end:** React.js, Redux, HTML5, CSS3, Tailwind
 - **Tools:** Git, VS Code
 
