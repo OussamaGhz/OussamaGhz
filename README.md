@@ -38,7 +38,7 @@ I'm Ghazi Oussama Soheib, a Computer Science student based in Algiers, Algeria. 
 
 ## 📈 GitHub Activity
 
-![Ghazi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OussamaGhz&bg_color=ffffff)
+[![Ghazi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OussamaGhz&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🤝 Let's Connect
 
