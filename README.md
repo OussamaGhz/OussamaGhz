@@ -18,19 +18,15 @@ I'm Ghazi Oussama Soheib, a Computer Science student based in Algiers, Algeria. 
 
 ## 💻 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, C, Java, HTML, CSS
-- **Front-end:** React.js, Redux, HTML5, CSS3, Tailwind
-- **Tools:** Git, VS Code
+- **Languages:** JavaScript, TypeScript, C, Java, Python
+- **Web development:** Next .js, React.js, Node.js, Refine.js, Redux, Tailwind, ShadcnUI
+- **Mobile development:** React Native, Expo
+- **Tools:** Git, Linux, VS Code
 
 ## 🌱 I'm Currently Learning
-
-- Exploring new front-end technologies and design principles.
-- Next JS
 - Three JS
+- Exploring new front-end technologies and design principles.
 
-## 🚀 Projects
-
-*No projects yet, but stay tuned for updates!*
 
 ## 🌟 GitHub Stats
 
