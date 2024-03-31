@@ -8,7 +8,7 @@
 
 # Hi, I'm Ghazi Oussama Soheib 👋
 
-Computer Science Student | Front-end Developer | Algiers, Algeria
+Computer Science Student | Web/Mobile devoloper | Algiers, Algeria
 
 📧 [Email](mailto:sohaib.ghazi@outlook.fr) | 👔 [LinkedIn](https://www.linkedin.com/in/oussama-soheib-ghazi-473b88287) | 🐦 [Twitter](https://twitter.com/OussamaGhz)
 
