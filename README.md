@@ -14,7 +14,7 @@ Computer Science Student | Web/Mobile devoloper | Algiers, Algeria
 
 ## About Me
 
-I'm Ghazi Oussama Soheib, a Computer Science student based in Algiers, Algeria. Aspiring Web development Developer with a passion for crafting clean and efficient code.
+I'm Ghazi Oussama Soheib, a Computer Science student based in Algiers, Algeria. Aspiring Web development with a passion for crafting clean and efficient code.
 
 ## 💻 Tech Stack
 
