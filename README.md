@@ -14,12 +14,12 @@ Computer Science Student | Front-end Developer | Algiers, Algeria
 
 ## About Me
 
-I'm Ghazi Oussama Soheib, a Computer Science student based in Algiers, Algeria. Aspiring Front-end Developer with a passion for crafting clean and efficient code.
+I'm Ghazi Oussama Soheib, a Computer Science student based in Algiers, Algeria. Aspiring Web development Developer with a passion for crafting clean and efficient code.
 
 ## 💻 Tech Stack
 
 - **Languages:** JavaScript, TypeScript, C, Java, Python
-- **Web development:** Next .js, React.js, Node.js, Refine.js, Redux, Tailwind, ShadcnUI
+- **Web development:** Next.js, React.js, Node.js, Refine.js, Redux, Tailwind, ShadcnUI
 - **Mobile development:** React Native, Expo
 - **Tools:** Git, Linux, VS Code
 
