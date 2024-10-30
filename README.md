@@ -23,10 +23,6 @@ I'm Ghazi Oussama Soheib, a Computer Science student based in Algiers, Algeria. 
 - **Mobile development:** React Native, Expo
 - **Tools:** Git, Rest, GraphQl, Linux, VS Code
 
-## 🌱 I'm Currently Learning
-- Three JS
-- Exploring new front-end technologies and design principles.
-
 
 ## 🌟 GitHub Stats
 
